@@ -1,4 +1,4 @@
-# My_New_MerkelTree
+# My_New_MerkleTree
 
 
 Introduction To Merkel Trees
